@@ -1,0 +1,1 @@
+# mirror-k8s-dns-sidecar-amd64
